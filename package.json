@@ -2,7 +2,7 @@
   "name": "exercise-files-node-js-essential-training",
   "version": "1.0.0",
   "description": "lynda-com-node-js-essential-training-2015-exercises",
-  "main": "03-02-start-app.js",
+  "main": "03-03-ask.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
